@@ -29,6 +29,7 @@ header {
   display: flex;
   flex-direction: column;
   gap: 2rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .header-top {
@@ -206,6 +207,7 @@ main {
   padding: 2rem;
   border-radius: 15px;
   border-left: 15px solid rgb(255, 179, 38);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .card h3 {
@@ -231,6 +233,7 @@ main {
 .right-sidebar-cards section {
   background-color: #ffffff;
   border-radius: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .announcements {
